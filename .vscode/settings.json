@@ -1,0 +1,26 @@
+{
+	"[markdown]": {
+		"editor.formatOnSave": true,
+		"editor.formatOnSaveMode": "file",
+		"editor.formatOnPaste": true,
+		"editor.formatOnType": true
+	},
+	"markdownlint.config": {
+		"default": true,
+		"MD013": {
+			"tables": false,
+			"strict": false,
+			"stern": false
+		},
+		"MD026": {
+			"punctuation": ".,;!。，；：！"
+		},
+		"MD033": false,
+		"MD041": false,
+		"MD046": false
+	},
+	"cSpell.words": [
+		"amuzil",
+		"LWST"
+	]
+}
