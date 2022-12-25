@@ -14,8 +14,7 @@
 <div align="center" style="text-align: center">
     <a href="https://github.com/amuzil/.github">
         <img
-            src2="https://raw.githubusercontent.com/amuzil/.github/main/profile/asset/logo.png"
-            src="asset/logo.png"
+            src="https://raw.githubusercontent.com/amuzil/.github/main/profile/asset/logo.png"
             alt="Logo"
             width="80" height="80"
         >
@@ -231,7 +230,7 @@ Main contact: **Luka "Mahtaran" Leer**
 
 <!-- intro -->
 
-[banner]: asset/banner.png
+[banner]: https://raw.githubusercontent.com/amuzil/.github/main/profile/asset/banner.png
 [project-url]: https://amuzil.com
 
 <!-- about -->
@@ -263,7 +262,7 @@ Main contact: **Luka "Mahtaran" Leer**
 
 <!-- meet the team -->
 
-[mahtaran-avatar]: asset/team/mahtaran.png
+[mahtaran-avatar]: https://raw.githubusercontent.com/amuzil/.github/main/profile/asset/team/mahtaran.png
 [favouritedragon-avatar]: https://via.placeholder.com/256x256.png
 
 <!-- built with -->
