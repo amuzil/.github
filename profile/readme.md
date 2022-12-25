@@ -169,12 +169,12 @@ create a pull request. You can also simply open an issue.
 If you really like the project, consider giving it a star!
 
 Make sure to read the [Code of Conduct][code-of-conduct-url] and the
-[Contributing Guidelines][contributing-guidelines-url] before contributing.
+[Contributing Guidelines][contributing-url] before contributing.
 Need help? Read the [Support][support-url] guide.
 
 **IMPORTANT**: if you want to report a security vulnerability that could
 potentially affect the security of our users, please contact us following the
-instructions in the [Security Policy][security-policy-url].
+instructions in the [Security Policy][security-url].
 
 <p align="right" style="text-align: right">(<a href="#anchor-top">back to top</a>)</p>
 
