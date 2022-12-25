@@ -106,10 +106,11 @@ We are currently working or have worked on the following projects:
 
 ### Meet the team
 
-|                   Avatar                   |             Name              |                Role                | Description                                                                                                                                                                                                                      |
-| :----------------------------------------: | :---------------------------: | :--------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|         ![Avatar][mahtaran-avatar]         |     Luka "Mahtaran" Leer      | _in-house code quality complainer_ | I manage the team and make high-level design choices. I tend to annoy others by giving my opinion on clean code and asking others (primarily John) to clean up their code. Besides that, I work on the website, Magus, and LWST. |
-| ![FavouriteDragon][favouritedragon-avatar] | John "FavouriteDragon" Atkins |    _professional code stealer_     | I lead design choices on fundamental aspects of specific mods, and development on VFX. I usually pester other people to send me their code when mine inevitably fails, so Luka always ends up cleaning up my messes.             |
+|              Avatar               |             Name              |                Role                | Description                                                                                                                                                                                                                      |
+| :-------------------------------: | :---------------------------: | :--------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|    ![Avatar][mahtaran-avatar]     |     Luka "Mahtaran" Leer      | _in-house code quality complainer_ | I manage the team and make high-level design choices. I tend to annoy others by giving my opinion on clean code and asking others (primarily John) to clean up their code. Besides that, I work on the website, Magus, and LWST. |
+| ![Avatar][favouritedragon-avatar] | John "FavouriteDragon" Atkins |       _expert code stealer_        | I lead design choices on fundamental aspects of specific mods, and development on VFX. I usually pester other people to send me their code when mine inevitably fails, so Luka always ends up cleaning up my messes.             |
+|     ![Avatar][coeluss-avatar]     |            Coeluss            |    _professional color placer_     | I lead the art department for the mod and create/verify all of the models and textures that are used. I also help with ideas and provide an insight on how in-game mechanics may work.                                           |
 
 ### Why open-source?
 
@@ -264,6 +265,7 @@ Main contact: **Luka "Mahtaran" Leer**
 
 [mahtaran-avatar]: https://raw.githubusercontent.com/amuzil/.github/main/profile/asset/team/mahtaran.png
 [favouritedragon-avatar]: https://via.placeholder.com/256x256.png
+[coeluss-avatar]: https://raw.githubusercontent.com/amuzil/.github/main/profile/asset/team/coeluss.png
 
 <!-- built with -->
 
