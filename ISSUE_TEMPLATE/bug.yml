@@ -24,7 +24,7 @@ body:
         - label: I've read the [contribution guidelines](https://github.com/amuzil/.github/blob/main/contributing.md) and wholeheartedly agree
           required: true
   - type: checkboxes
-    id: bug-checklist
+    id: checklist
     attributes:
       label: I've found a bug and checked that…
       description: Make sure that your request fulfills all of the following requirements. If one requirement cannot be satisfied, explain in detail why.
@@ -64,6 +64,13 @@ body:
         3. …
     validations:
       required: true
+  - type: textarea
+    id: debugging-attempts
+    attributes:
+      label: Debugging attempts
+      description: Please describe the steps you've taken to debug the problem.
+      placeholder: |-
+        I've tried to …, but …
   - type: textarea
     id: system-information
     attributes:

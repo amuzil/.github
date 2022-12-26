@@ -24,7 +24,7 @@ body:
         - label: I've read the [contribution guidelines](https://github.com/amuzil/.github/blob/main/contributing.md) and wholeheartedly agree
           required: true
   - type: checkboxes
-    id: feature-checklist
+    id: checklist
     attributes:
       label: I have a feature request and checked that…
       description: Make sure that your request fulfills all of the following requirements. If one requirement cannot be satisfied, explain in detail why.
@@ -67,7 +67,7 @@ body:
     id: alternatives
     attributes:
       label: Alternatives
-      description: Please describe any alternative solutions or features you've considered.
+      description: Please describe any alternative solutions you've considered.
     validations:
       required: false
   - type: textarea
