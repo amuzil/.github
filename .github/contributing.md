@@ -68,7 +68,8 @@ All documentation for our projects lives in the [Amuzil Docs][amuzil-docs-url] r
 We use [GitHub Pull Requests][pull-requests-docs-url] to track documentation contributions.
 If you'd like to contribute to our documentation, please open a pull request there.
 
-When you open a new pull request, please follow the pull request template.
+When you open a new pull request, please copy-paste the relevant
+[pull request template][pull-request-templates-url].
 In addition to the template, please follow our [conventions](#conventions).
 
 ### How to Contribute Code
@@ -76,7 +77,8 @@ In addition to the template, please follow our [conventions](#conventions).
 If you'd like to contribute code to an Amuzil project, please open a pull request!
 We use [GitHub Pull Requests][pull-requests-docs-url] to track code contributions.
 
-When you open a new pull request, please follow the pull request template.
+When you open a new pull request, please copy-paste the relevant
+[pull request template][pull-request-templates-url].
 In addition to the template, please follow our [conventions](#conventions).
 
 ## Conventions
@@ -297,6 +299,7 @@ Look for a `license.md` at the root of the project's repository.
 [issues-docs-url]: https://docs.github.com/en/issues/tracking-your-work-with-issues
 [creating-an-issue-docs-url]: https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-issues/creating-an-issue
 [pull-requests-docs-url]: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests
+[pull-request-templates-url]: https://github.com/amuzil/.github/tree/main/.github/PULL_REQUEST_TEMPLATE
 [discussions-docs-url]: https://docs.github.com/en/discussions
 [amuzil-docs-url]: https://github.com/amuzil/docs
 [git-url]: https://git-scm.com
