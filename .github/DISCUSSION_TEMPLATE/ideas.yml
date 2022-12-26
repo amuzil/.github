@@ -1,7 +1,5 @@
-name: Idea
-description: Suggest an idea
 title: "Should we <idea>?"
-labels: []
+labels: ["Ideas"]
 body:
   - type: markdown
     attributes:
