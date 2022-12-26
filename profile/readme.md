@@ -173,9 +173,9 @@ Make sure to read the [Code of Conduct][code-of-conduct-url] and the
 [Contributing Guidelines][contributing-url] before contributing.
 Need help? Read the [Support][support-url] guide.
 
-**IMPORTANT**: if you want to report a security vulnerability that could
-potentially affect the security of our users, please contact us following the
-instructions in the [Security Policy][security-url].
+> **IMPORTANT**: if you want to report a security vulnerability that could
+> potentially affect the security of our users, please contact us following the
+> instructions in the [Security Policy][security-url].
 
 <p align="right" style="text-align: right">(<a href="#anchor-top">back to top</a>)</p>
 
