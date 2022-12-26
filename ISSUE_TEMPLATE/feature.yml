@@ -1,0 +1,87 @@
+name: Feature Request
+description: Request a feature
+title: "Add <feature>"
+labels: ["feature"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to suggest a new feature for this project!
+  - type: checkboxes
+    id: code-of-conduct
+    attributes:
+      label: Code of Conduct
+      description: Please read the code of conduct before proceeding.
+      options:
+        - label: I've read the [code of conduct](https://github.com/amuzil/.github/blob/main/code-of-conduct.md) and wholeheartedly agree
+          required: true
+  - type: checkboxes
+    id: contribution-guidelines
+    attributes:
+      label: Contribution Guidelines
+      description: Please read the contribution guidelines before proceeding.
+      options:
+        - label: I've read the [contribution guidelines](https://github.com/amuzil/.github/blob/main/contributing.md) and wholeheartedly agree
+          required: true
+  - type: checkboxes
+    id: feature-checklist
+    attributes:
+      label: I have a feature request and checked that…
+      description: Make sure that your request fulfills all of the following requirements. If one requirement cannot be satisfied, explain in detail why.
+      options:
+      - label: the documentation does not mention anything about my feature
+      - label: there are no open or closed issues that are related to my feature
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please provide a brief description of the feature in 1-2 sentences.
+    validations:
+      required: true
+  - type: textarea
+    id: reasons
+    attributes:
+      label: Reasons
+      description: Please describe the reasons why you'd like to see this feature implemented.
+    validations:
+      required: true
+  - type: textarea
+    id: current-situation
+    attributes:
+      label: Current situation
+      description: Please describe the current situation and how it could be improved by implementing this feature.
+      placeholder: |-
+        Currently, …
+
+        This could be improved by …
+    validations:
+      required: false
+  - type: textarea
+    id: proposed-solution
+    attributes:
+      label: Proposed solution
+      description: Please describe the proposed solution.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives
+      description: Please describe any alternative solutions or features you've considered.
+    validations:
+      required: false
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      description: Please provide any additional context or screenshots about the feature request here.
+    validations:
+      required: false
+  - type: checkboxes
+    id: attachments
+    attributes:
+      label: Attachments
+      description: Please attach any relevant files, such as screenshots, logs, configuration files, et cetera.
+      options:
+        - label: I've attached relevant files (if any)
+          required: true

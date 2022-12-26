@@ -1,0 +1,100 @@
+name: Bug Report
+description: Report a bug
+title: "<problem>"
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug for this project!
+  - type: checkboxes
+    id: code-of-conduct
+    attributes:
+      label: Code of Conduct
+      description: Please read the code of conduct before proceeding.
+      options:
+        - label: I've read the [code of conduct](https://github.com/amuzil/.github/blob/main/code-of-conduct.md) and wholeheartedly agree
+          required: true
+  - type: checkboxes
+    id: contribution-guidelines
+    attributes:
+      label: Contribution Guidelines
+      description: Please read the contribution guidelines before proceeding.
+      options:
+        - label: I've read the [contribution guidelines](https://github.com/amuzil/.github/blob/main/contributing.md) and wholeheartedly agree
+          required: true
+  - type: checkboxes
+    id: bug-checklist
+    attributes:
+      label: I've found a bug and checked that…
+      description: Make sure that your request fulfills all of the following requirements. If one requirement cannot be satisfied, explain in detail why.
+      options:
+      - label: the problem occurs without any third-party software, i.e. no other mods, plugins, et cetera
+      - label: the documentation does not mention anything about my problem
+      - label: there are no open or closed issues that are related to my problem
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please provide a brief description of the bug in 1-2 sentences.
+    validations:
+      required: true
+  - type: textarea
+    id: expected-behaviour
+    attributes:
+      label: Expected behaviour
+      description: Please describe precisely what you'd expect to happen.
+    validations:
+      required: true
+  - type: textarea
+    id: actual-behaviour
+    attributes:
+      label: Actual behaviour
+      description: Please describe precisely what is actually happening.
+    validations:
+      required: true
+  - type: textarea
+    id: steps-to-reproduce
+    attributes:
+      label: Steps to reproduce
+      description: Please describe the steps to reproduce the bug.
+      placeholder: |-
+        1. …
+        2. …
+        3. …
+    validations:
+      required: true
+  - type: textarea
+    id: system-information
+    attributes:
+      label: System information
+      description: Please provide your operating system and other environment versions.
+      value: |-
+        - Operating system: …
+        - (If applicable) Browser: …
+        - (If applicable) Minecraft: …
+        - (If applicable) Java: …
+    validations:
+      required: true
+  - type: textarea
+    id: software-versions
+    attributes:
+      label: Software versions
+      description: Please provide all relevant software versions.
+      value: |-
+        If the software has dependencies, please list them as well.
+
+        For example:
+
+        - Avatar: …
+        - Magus: …
+    validations:
+      required: true
+  - type: checkboxes
+    id: attachments
+    attributes:
+      label: Attachments
+      description: Please attach any relevant files, such as screenshots, logs, configuration files, et cetera.
+      options:
+        - label: I've attached relevant files (if any)
+          required: true
