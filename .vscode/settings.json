@@ -22,5 +22,6 @@
 	"cSpell.words": [
 		"amuzil",
 		"LWST"
-	]
+	],
+	"markdown.extension.toc.levels": "1..4"
 }
