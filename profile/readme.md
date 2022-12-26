@@ -290,10 +290,10 @@ Main contact: **Luka "Mahtaran" Leer**
 
 <!-- contributing -->
 
-[code-of-conduct-url]: ../code-of-conduct.md
-[contributing-url]: ../contributing.md
-[security-url]: ../security.md
-[support-url]: ../support.md
+[code-of-conduct-url]: ../.github/code-of-conduct.md
+[contributing-url]: ../.github/contributing.md
+[security-url]: ../.github/security.md
+[support-url]: ../.github/support.md
 
 <!-- contact -->
 

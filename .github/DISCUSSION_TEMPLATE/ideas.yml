@@ -1,19 +1,19 @@
-name: Feature Request
-description: Request a feature
-title: "Add <feature>"
-labels: ["feature"]
+name: Idea
+description: Suggest an idea
+title: "Should we <idea>?"
+labels: []
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to suggest a new feature for this project!
+        Thanks for taking the time to discuss a new idea for this project!
   - type: checkboxes
     id: code-of-conduct
     attributes:
       label: Code of Conduct
       description: Please read the code of conduct before proceeding.
       options:
-        - label: I've read the [code of conduct](https://github.com/amuzil/.github/blob/main/code-of-conduct.md) and wholeheartedly agree
+        - label: I've read the [code of conduct](https://github.com/amuzil/.github/blob/main/.github/.github/code-of-conduct.md) and wholeheartedly agree
           required: true
   - type: checkboxes
     id: contribution-guidelines
@@ -21,35 +21,35 @@ body:
       label: Contribution Guidelines
       description: Please read the contribution guidelines before proceeding.
       options:
-        - label: I've read the [contribution guidelines](https://github.com/amuzil/.github/blob/main/contributing.md) and wholeheartedly agree
+        - label: I've read the [contribution guidelines](https://github.com/amuzil/.github/blob/main/.github/.github/contributing.md) and wholeheartedly agree
           required: true
   - type: checkboxes
     id: checklist
     attributes:
-      label: I have a feature request and checked that…
+      label: I have an idea and checked that…
       description: Make sure that your request fulfills all of the following requirements. If one requirement cannot be satisfied, explain in detail why.
       options:
-      - label: the documentation does not mention anything about my feature
-      - label: there are no open or closed issues that are related to my feature
+      - label: the documentation does not mention my idea at all
+      - label: there are no open or closed issues that are related to my idea
   - type: textarea
     id: description
     attributes:
       label: Description
-      description: Please provide a brief description of the feature in 1-2 sentences.
+      description: Please provide a brief description of the idea in 1-2 sentences.
     validations:
       required: true
   - type: textarea
     id: reasons
     attributes:
       label: Reasons
-      description: Please describe the reasons why you'd like to see this feature implemented.
+      description: Please describe the reasons why you think this idea is worth discussing.
     validations:
       required: true
   - type: textarea
     id: current-situation
     attributes:
       label: Current situation
-      description: Please describe the current situation and how it could be improved by implementing this feature.
+      description: Please describe the current situation and how it could be improved.
       placeholder: |-
         Currently, …
 
@@ -74,7 +74,7 @@ body:
     id: additional-context
     attributes:
       label: Additional context
-      description: Please provide any additional context or screenshots about the feature request here.
+      description: Please provide any additional context or screenshots about the idea here.
     validations:
       required: false
   - type: checkboxes
