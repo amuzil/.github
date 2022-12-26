@@ -13,7 +13,7 @@ body:
       label: Code of Conduct
       description: Please read the code of conduct before proceeding.
       options:
-        - label: I've read the [code of conduct](https://github.com/amuzil/.github/blob/main/.github/code-of-conduct.md) and wholeheartedly agree
+        - label: I have read the [code of conduct](https://github.com/amuzil/.github/blob/main/.github/code-of-conduct.md) and wholeheartedly agree
           required: true
   - type: checkboxes
     id: contribution-guidelines
@@ -21,12 +21,12 @@ body:
       label: Contribution Guidelines
       description: Please read the contribution guidelines before proceeding.
       options:
-        - label: I've read the [contribution guidelines](https://github.com/amuzil/.github/blob/main/.github/contributing.md) and wholeheartedly agree
+        - label: I have read and understood the [contribution guidelines](https://github.com/amuzil/.github/blob/main/.github/contributing.md)
           required: true
   - type: checkboxes
     id: checklist
     attributes:
-      label: I've found a bug and checked that…
+      label: I have found a bug and checked that…
       description: Make sure that your request fulfills all of the following requirements. If one requirement cannot be satisfied, explain in detail why.
       options:
       - label: the problem occurs without any third-party software, i.e. no other mods, plugins, et cetera
@@ -70,7 +70,7 @@ body:
       label: Debugging attempts
       description: Please describe the steps you've taken to debug the problem.
       placeholder: |-
-        I've tried to …, but …
+        I have tried to …, but …
   - type: textarea
     id: system-information
     attributes:
@@ -103,5 +103,5 @@ body:
       label: Attachments
       description: Please attach any relevant files, such as screenshots, logs, configuration files, et cetera.
       options:
-        - label: I've attached relevant files (if any)
+        - label: I have attached relevant files (if any)
           required: true
