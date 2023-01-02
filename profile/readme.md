@@ -2,11 +2,9 @@
 
 <!-- PROJECT SHIELDS -->
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
+[![Followers][followers-shield]][followers-url]
 [![Stargazers][stargazers-shield]][stargazers-url]
 [![Sponsors][sponsors-shield]][sponsors-url]
-[![License][license-shield]][license-url]
 
 <!-- PROJECT LOGO -->
 
@@ -66,20 +64,6 @@
 ## About Amuzil
 
 [![Banner][banner]][project-url]
-
-[![GitHub repo file count][github-repo-file-count]][github-repo-url]
-[![GitHub repo size][github-repo-size]][github-repo-url]
-[![GitHub repo last commit][github-repo-last-commit]][github-repo-url]
-[![GitHub repo languages][github-repo-languages]][github-repo-url]
-
-[![GitHub open milestones][github-open-milestones]][github-open-milestones-url]
-[![GitHub closed milestones][github-closed-milestones]][github-closed-milestones-url]
-
-[![GitHub open pull requests][github-open-pull-requests]][github-open-pull-requests-url]
-[![GitHub closed requests][github-closed-pull-requests]][github-closed-pull-requests-url]
-
-[![GitHub open issues][github-open-issues]][github-open-issues-url]
-[![GitHub closed issues][github-closed-issues]][github-closed-issues-url]
 
 Amuzil is the name of our organisation of developers.
 We, primarily voluntarily, develop open-source software projects.
@@ -146,6 +130,8 @@ By open-sourcing our projects, we hope to achieve the following:
 <p align="right" style="text-align: right">(<a href="#anchor-top">back to top</a>)</p>
 
 ### Built with
+
+This project was built with
 
 [![Prettier][prettier-shield]][prettier-url]
 [![EditorConfig][editorconfig-shield]][editorconfig-url]
@@ -220,41 +206,17 @@ Main contact: **Luka "Mahtaran" Leer**
 
 <!-- top shields -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/amuzil/docs.svg?style=for-the-badge
-[contributors-url]: https://github.com/amuzil/docs/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/amuzil/docs.svg?style=for-the-badge
-[forks-url]: https://github.com/amuzil/docs/network/members
-[stargazers-shield]: https://img.shields.io/github/stars/amuzil/docs.svg?style=for-the-badge
-[stargazers-url]: https://github.com/amuzil/docs/stargazers
+[followers-shield]: https://img.shields.io/github/followers/amuzil?style=for-the-badge
+[followers-url]: https://github.com/orgs/amuzil/people
+[stargazers-shield]: https://img.shields.io/github/stars/amuzil?style=for-the-badge
+[stargazers-url]: https://github.com/orgs/amuzil/repositories
 [sponsors-shield]: https://img.shields.io/github/sponsors/amuzil?style=for-the-badge
 [sponsors-url]: https://github.com/sponsors/amuzil
-[license-shield]: https://img.shields.io/github/license/amuzil/docs.svg?style=for-the-badge
-[license-url]: https://github.com/amuzil/docs/blob/main/license.md
-
-<!-- intro -->
-
-[banner]: https://raw.githubusercontent.com/amuzil/.github/main/profile/asset/banner.png
-[project-url]: https://amuzil.com
 
 <!-- about -->
 
-[github-repo-url]: https://github.com/amuzil/docs/
-[github-repo-file-count]: https://img.shields.io/github/directory-file-count/amuzil/docs?style=for-the-badge
-[github-repo-size]: https://img.shields.io/github/repo-size/amuzil/docs?style=for-the-badge
-[github-repo-last-commit]: https://img.shields.io/github/last-commit/amuzil/docs?style=for-the-badge
-[github-repo-languages]: https://img.shields.io/github/languages/count/amuzil/docs?style=for-the-badge
-[github-open-issues]: https://img.shields.io/github/issues/amuzil/docs?style=for-the-badge
-[github-open-issues-url]: https://github.com/amuzil/docs/issues
-[github-closed-issues]: https://img.shields.io/github/issues-closed/amuzil/docs?style=for-the-badge
-[github-closed-issues-url]: https://github.com/amuzil/docs/issues?q=is%3Aissue+is%3Aclosed
-[github-open-pull-requests]: https://img.shields.io/github/issues-pr/amuzil/docs?style=for-the-badge
-[github-open-pull-requests-url]: https://github.com/amuzil/docs/pulls
-[github-closed-pull-requests]: https://img.shields.io/github/issues-pr-closed/amuzil/docs?style=for-the-badge
-[github-closed-pull-requests-url]: https://github.com/amuzil/docs/pulls?q=is%3Apr+is%3Aclosed
-[github-open-milestones]: https://img.shields.io/github/milestones/open/amuzil/docs?style=for-the-badge
-[github-open-milestones-url]: https://github.com/amuzil/docs/milestones
-[github-closed-milestones]: https://img.shields.io/github/milestones/closed/amuzil/docs?style=for-the-badge
-[github-closed-milestones-url]: https://github.com/amuzil/docs/milestones?q=is%3Aclosed
+[banner]: https://raw.githubusercontent.com/amuzil/.github/main/profile/asset/banner.png
+[project-url]: https://amuzil.com
 
 <!-- our projects -->
 
@@ -307,7 +269,7 @@ Main contact: **Luka "Mahtaran" Leer**
 [luka-website-url]: https://mahtaran.amuzil.com/
 [luka-github-followers-shield]: https://img.shields.io/github/followers/Mahtaran?style=for-the-badge&logo=github&logoColor=white&label=Follow+on+GitHub
 [luka-github-followers-url]: https://github.com/Mahtaran
-[luka-reddit-shield]: https://img.shields.io/reddit/user-karma/link/Mahtaran?style=for-the-badge&logo=reddit&logoColor=white&label=Follow+on+Reddit
+[luka-reddit-shield]: https://img.shields.io/reddit/user-karma/combined/Mahtaran?style=for-the-badge&logo=reddit&logoColor=white&label=Follow+on+Reddit
 [luka-reddit-url]: https://reddit.com/user/Mahtaran
 [luka-twitter-shield]: https://img.shields.io/twitter/follow/mahtaransocial?style=for-the-badge&logo=twitter&logoColor=white&label=Follow+on+Twitter
 [luka-twitter-url]: https://twitter.com/mahtaransocial
