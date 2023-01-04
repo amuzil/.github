@@ -252,10 +252,10 @@ Main contact: **Luka "Mahtaran" Leer**
 
 <!-- contributing -->
 
-[code-of-conduct-url]: ../.github/code-of-conduct.md
-[contributing-url]: ../.github/contributing.md
-[security-url]: ../.github/security.md
-[support-url]: ../.github/support.md
+[code-of-conduct-url]: https://github.com/amuzil/.github/blob/main/.github/code-of-conduct.md
+[contributing-url]: https://github.com/amuzil/.github/blob/main/.github/contributing.md
+[security-url]: https://github.com/amuzil/.github/blob/main/.github/security.md
+[support-url]: https://github.com/amuzil/.github/blob/main/.github/support.md
 
 <!-- contact -->
 
