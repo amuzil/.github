@@ -107,12 +107,12 @@ Commit messages should be clear and concise.
 You must follow the following format:
 
 ```text
-<gitmoji> <subject>
+<gitmoji> <subject> [(#issue)]
 
 <description>
 ```
 
-Note in particular the space between the gitmoji and the subject,
+Note in particular the spaces between the gitmoji, the subject and the issue,
 and the blank line between the subject and the description.
 
 If possible, [sign your commits][signing-commits-url].
@@ -121,6 +121,8 @@ If possible, [sign your commits][signing-commits-url].
 
 We use [Gitmoji][gitmoji-url] to add meaningful emojis to our commit messages.
 This helps us keep our commit messages consistent and easy to read.
+You should use the unicode emoji rather than the text version of the gitmoji.
+So, `📝`, not `:memo:`.
 
 > To make things easier,
 > there are tools that integrate Gitmoji into your IDE of choice.
@@ -129,6 +131,7 @@ This helps us keep our commit messages consistent and easy to read.
 > [Gitmoji Plus: Commit Button][jetbrains-gitmoji-url],
 > and for Visual Studio Code, there is
 > [Gitmoji][vscode-gitmoji-url].
+> Both of these tools can be configured to use unicode emojis instead of text versions.
 >
 > If your IDE of choice does not have a Gitmoji plugin,
 > or you prefer to use a Git client,
@@ -155,6 +158,11 @@ Added tomato sauce to pizza
 fix kitchen light
 ```
 
+##### Issue
+
+If your commit is related to a specific commit, you should reference it within parentheses.
+For example, for a commit that adresses issue 42, `(#123)`
+
 ##### Description
 
 The description of your commit message can be as long as you need it to be.
@@ -173,6 +181,27 @@ Aim for around 50 characters.
 
 In general, a pull request title should look quite similar to a commit message.
 However, it should summarise the changes made by all of the commits in the pull request.
+
+##### Merge commits
+
+Merge commits follow the same format, except for the fact that they reference the pull request, not the issue
+
+```text
+🔀 <summary> <#pull-request>
+
+<description>
+```
+
+The `summary` should be equal to the pull request title, except if there is a good reason it should not be.
+
+A good examples:
+
+```text
+🔀 Add form usage descriptions (#6)
+
+Added VR & multikey usage descriptions for all forms,
+as well as a small note to the Block description.
+```
 
 #### Branches
 
