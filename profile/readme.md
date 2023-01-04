@@ -25,9 +25,11 @@
         <a href="https://amuzil.com"><strong>Check us out »</strong></a>
         <br />
         <br />
-        <a href="https://github.com/amuzil/.github/issues">Report Bug</a>
+        <a href="https://github.com/amuzil/.github/issues/new?assignees=&labels=bug&template=bug.yml&title=%3Cproblem%3E">Report Bug</a>
         ·
-        <a href="https://github.com/amuzil/.github/issues">Request Feature</a>
+        <a href="https://github.com/amuzil/.github/issues/new?assignees=&labels=enhancement&template=feature.yml&title=Add+%3Cfeature%3E">Request Feature</a>
+        ·
+        <a href="https://github.com/amuzil/.github/security/policy">Report Vulnerability</a>
     </p>
 </div>
 
