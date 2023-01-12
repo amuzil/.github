@@ -3,7 +3,7 @@
 Do you need help with one of Amuzil's projects? You've come to the right place!
 This document will help you get the support you need.
 
-First off, identify the project you need help with.
+First, identify the project you need help with.
 
 Secondly, think about the nature of your problem.
 Are you having trouble installing the project?
