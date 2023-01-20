@@ -92,8 +92,6 @@ We are currently working or have worked on the following projects:
 
 ### Meet the team
 
-Our core team is known as "Omega Source"
-
 |              Avatar               |             Name              |                Role                | Description                                                                                                                                                                                                                      |
 | :-------------------------------: | :---------------------------: | :--------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |    ![Avatar][mahtaran-avatar]     |     Luka "Mahtaran" Leer      | _in-house code quality complainer_ | I manage the team and make high-level design choices. I tend to annoy others by giving my opinion on clean code and asking others (primarily John) to clean up their code. Besides that, I work on the website, Magus, and LWST. |
